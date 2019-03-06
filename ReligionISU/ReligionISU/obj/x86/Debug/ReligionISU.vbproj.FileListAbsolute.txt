@@ -1,0 +1,13 @@
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\ReligionISU\ReligionISU\bin\Debug\ReligionISU.exe
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\ReligionISU\ReligionISU\bin\Debug\ReligionISU.pdb
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\ReligionISU\ReligionISU\bin\Debug\ReligionISU.xml
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\ReligionISU\ReligionISU\obj\x86\Debug\ReligionISU.Form1.resources
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\ReligionISU\ReligionISU\obj\x86\Debug\ReligionISU.Resources.resources
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\ReligionISU\ReligionISU\obj\x86\Debug\ReligionISU.vbproj.GenerateResource.Cache
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\ReligionISU\ReligionISU\obj\x86\Debug\ReligionISU.exe
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\ReligionISU\ReligionISU\obj\x86\Debug\ReligionISU.xml
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\ReligionISU\ReligionISU\obj\x86\Debug\ReligionISU.pdb
+C:\Users\aptma\documents\visual studio 2010\Projects\ReligionISU\ReligionISU\obj\x86\Debug\ReligionISU.Early_Life.resources
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\ReligionISU\ReligionISU\obj\x86\Debug\ReligionISU.Middle_Life.resources
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\ReligionISU\ReligionISU\obj\x86\Debug\ReligionISU.Late_Life.resources
+C:\Users\aptma\Documents\Visual Studio 2010\Projects\ReligionISU\ReligionISU\obj\x86\Debug\ReligionISU.Quiz.resources
